@@ -71,7 +71,7 @@
     <cassandra.version>3.11.16</cassandra.version>
     <cassandra-driver.version>3.11.5</cassandra-driver.version>
     <commons-codec.version>1.15</commons-codec.version>
-    <commons-compress.version>1.24.0</commons-compress.version>
+    <commons-compress.version>1.26.0</commons-compress.version>
     <commons-csv.version>1.10.0</commons-csv.version>
     <commons-dbcp2.version>2.9.0</commons-dbcp2.version>
     <commons-io.version>2.11.0</commons-io.version>
@@ -120,7 +120,7 @@
     <junit.version>4.13.2</junit.version>
     <junit-jupiter.version>5.10.0</junit-jupiter.version>
     <junit-pioneer.version>1.9.1</junit-pioneer.version>
-    <kafka.version>3.4.0</kafka.version>
+    <kafka.version>3.5.2</kafka.version>
     <kubernetes-client.version>5.12.4</kubernetes-client.version>
     <lightcouch.version>0.2.0</lightcouch.version>
     <log4j.version>1.2.17</log4j.version>
